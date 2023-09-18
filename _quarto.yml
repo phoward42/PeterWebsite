@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "PeterWebsite"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+        icon: house
+      - href: research.qmd
+        text: My Research
+    right: 
+      - href: about.qmd
+        icon: question
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+
+
+

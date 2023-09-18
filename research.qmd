@@ -1,0 +1,18 @@
+---
+title: "My Research"
+subtitle: "This page talks about my ongoing and past research projects"
+date: "2023-09-11"
+author: "Peter Howard"
+title-block-banner: true
+number-sections: true
+toc-location: right
+editor: visual
+---
+
+## Ongoing projects
+
+### Project 1
+
+### Project 2
+
+## Past Projects
