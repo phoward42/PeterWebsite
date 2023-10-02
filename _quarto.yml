@@ -4,6 +4,8 @@ project:
 
 website:
   title: "PeterWebsite"
+  repo-url: https://github.com/phoward42/phoward42-practice
+  repo-actions: [edit, issue]
   navbar:
     left:
       - href: index.qmd
@@ -14,6 +16,8 @@ website:
     right: 
       - href: about.qmd
         icon: question
+      - href: "https://phoward42.github.io/phoward42-practice"
+        icon: github
 format:
   html:
     theme: sandstone
