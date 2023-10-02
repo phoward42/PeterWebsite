@@ -16,7 +16,7 @@ website:
     right: 
       - href: about.qmd
         icon: question
-      - href: "https://phoward42.github.io/phoward42-practice"
+      - href: "https://github.com/phoward42/phoward42-practice"
         icon: github
 format:
   html:
